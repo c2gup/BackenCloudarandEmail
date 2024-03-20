@@ -13,7 +13,7 @@ This repository contains an application for uploading files to both a local serv
 
 1. **Clone the Repository**: 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/c2gup/BackenCloudarandEmail.git
     ```
 
 2. **Install Dependencies**:
